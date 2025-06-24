@@ -135,15 +135,11 @@ notebooks/Garbage_Classification.ipynb
 
 - **Best Model Accuracy:** ~89% on test set.
 - **Confusion Matrix:** Shows class-wise performance.
-- **Sample Output:**  
-![Fashion MNIST Results](results/fashion_mnist_sample.png)
 
 ### Smart Garbage Classification
 
 - **Best Model Accuracy:** ~92% on validation set (with transfer learning).
 - **Precision, Recall, F1-score:** Evaluated for each garbage category.
-- **Sample Output:**  
-![Garbage Classification Results](results/garbage_classification_sample.png)
 
 ---
 

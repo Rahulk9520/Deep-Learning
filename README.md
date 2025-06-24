@@ -49,10 +49,10 @@ Deep learning has revolutionized computer vision, enabling machines to recognize
 ### 2. Smart Garbage Classification
 
 - **Dataset:** Garbage classification dataset (images of different waste categories)
-- **Objective:** Classify images of garbage into categories such as plastic, paper, metal, glass, etc.
+- **Objective:** Classify images of garbage into two categories Organic or Recyclable.
 - **Key Steps:**
   - Data augmentation and preprocessing
-  - Model building (CNN with transfer learning, e.g., VGG16, MobileNet)
+  - Model building (CNN with transfer learning, e.g., VGG16, Resnet50)
   - Model training with data generators
   - Performance evaluation (accuracy, precision, recall, F1-score)
   - Deployment-ready model saving
